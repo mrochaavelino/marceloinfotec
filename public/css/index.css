@@ -3,15 +3,20 @@
     Author     : Marcelo Avelino
 */
 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 .fixed-square-purple{
-    position: absolute;
-    height: 45%;
-    width: 25%;
+    position: fixed;
+    top: 0;
+    right:20px;
     background: #a18bc9;    
 }
 
 .fixed-square-red{
-    position: absolute;
+    position: fixed;
     height: 25%;
     width: 25%;
     left: 400px;
@@ -19,17 +24,10 @@
 }
 
 .fixed-square-blue{
-    position: absolute;
+    position: fixed;
     height: 35%;
     width: 25%;
     left: 850px;
     background: #373751;
 }
 
-.fixed-square-yellow{
-    position: absolute;
-    height: 40%;
-    width: 25%;
-    left: 1200px;
-    background: #fda94e;
-}
