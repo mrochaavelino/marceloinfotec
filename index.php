@@ -4,8 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
-        <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-        <meta name="generator" content="Hugo 0.104.2">
+        <meta name="author" content="Marcelo Rocha Avelino, Marcelo Informatica Tecnologia">
+        <meta name="generator" content="Marcelo Rocha Avelino Profile Digital and Website">
         <title>Marcelo - InfoTec</title>
         
         <!-- Bootstrap ext -->
@@ -16,12 +16,13 @@
     </head>
     <body>
         
-            <div class="header">
-                <div class="fixed-square-purple"></div>
-                <div class="fixed-square-red"></div>
-                <div class="fixed-square-blue"></div>
-                <div class="fixed-square-yellow"></div>
-            </div>
+        <div class="header">
+            <nav>
+                <a href="index.php">Home</a>
+                <a href="#">Serviços</a>
+                <a href="#">Contato</a>
+            </nav>
+        </div>
            
         <div class="">
             
