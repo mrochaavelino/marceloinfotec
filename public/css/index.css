@@ -1,0 +1,35 @@
+/* 
+    Created on : 05/05/2023, 15:58:10
+    Author     : Marcelo Avelino
+*/
+
+.fixed-square-purple{
+    position: absolute;
+    height: 45%;
+    width: 25%;
+    background: #a18bc9;    
+}
+
+.fixed-square-red{
+    position: absolute;
+    height: 25%;
+    width: 25%;
+    left: 400px;
+    background: #93315e; 
+}
+
+.fixed-square-blue{
+    position: absolute;
+    height: 35%;
+    width: 25%;
+    left: 850px;
+    background: #373751;
+}
+
+.fixed-square-yellow{
+    position: absolute;
+    height: 40%;
+    width: 25%;
+    left: 1200px;
+    background: #fda94e;
+}
